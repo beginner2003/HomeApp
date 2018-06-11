@@ -1,0 +1,14 @@
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.csprojAssemblyReference.cache
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.csproj.CoreCompileInputs.cache
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.RazorAssemblyInfo.cache
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.RazorAssemblyInfo.cs
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.AssemblyInfoInputs.cache
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.AssemblyInfo.cs
+C:\projects\HomeApi\bin\Debug\netcoreapp2.1\HomeApi.deps.json
+C:\projects\HomeApi\bin\Debug\netcoreapp2.1\HomeApi.runtimeconfig.json
+C:\projects\HomeApi\bin\Debug\netcoreapp2.1\HomeApi.runtimeconfig.dev.json
+C:\projects\HomeApi\bin\Debug\netcoreapp2.1\HomeApi.dll
+C:\projects\HomeApi\bin\Debug\netcoreapp2.1\HomeApi.pdb
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.RazorTargetAssemblyInfo.cache
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.dll
+C:\projects\HomeApi\obj\Debug\netcoreapp2.1\HomeApi.pdb
